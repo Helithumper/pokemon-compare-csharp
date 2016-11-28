@@ -1,1 +1,13 @@
-﻿<Properties StartupItem="pokemon-compare-csharp/pokemon-compare-csharp.csproj" />
+﻿<Properties StartupItem="pokemon-compare-csharp/pokemon-compare-csharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="pokemon-compare-csharp/Program.cs">
+    <Files>
+      <File FileName="pokemon-compare-csharp/Program.cs" Line="12" Column="15" />
+      <File FileName="pokemon-compare-csharp/PokemonTables.cs" Line="50" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

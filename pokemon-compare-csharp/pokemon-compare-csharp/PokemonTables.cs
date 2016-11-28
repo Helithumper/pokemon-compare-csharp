@@ -29,6 +29,12 @@ namespace pokemoncomparecsharp
 			typeChart [16] = "steel";
 			typeChart [17] = "fairy";
 
+			for (int i = 0; i < matchupChart.GetLength (0); i++) {
+				for (int j = 0; j < matchupChart.GetLength (1); j++) {
+					matchupChart [i, j] = 1;
+				}
+			}
+
 			matchupChart [6, 0] = 2;
 			matchupChart [13, 0] = 0;
 			matchupChart [1, 1] = 3;
@@ -175,6 +181,7 @@ namespace pokemoncomparecsharp
 			matchupChart [14, 17] = 0;
 			matchupChart [15, 17] = 3;
 			matchupChart [16, 17] = 2;
+
 
 		}
 	}
