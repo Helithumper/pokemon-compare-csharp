@@ -1,0 +1,5 @@
+/home/peyton/Documents/gitworkspace/pokemon-compare-csharp/pokemon-compare-csharp/pokemon-compare-csharp/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/peyton/Documents/gitworkspace/pokemon-compare-csharp/pokemon-compare-csharp/pokemon-compare-csharp/bin/Debug/pokemon-compare-csharp.exe.mdb
+/home/peyton/Documents/gitworkspace/pokemon-compare-csharp/pokemon-compare-csharp/pokemon-compare-csharp/bin/Debug/pokemon-compare-csharp.exe
+/home/peyton/Documents/gitworkspace/pokemon-compare-csharp/pokemon-compare-csharp/pokemon-compare-csharp/obj/x86/Debug/pokemon-compare-csharp.exe
+/home/peyton/Documents/gitworkspace/pokemon-compare-csharp/pokemon-compare-csharp/pokemon-compare-csharp/obj/x86/Debug/pokemon-compare-csharp.exe.mdb
